@@ -21,3 +21,4 @@ git restore testing.py
  cd .\github-for-devops-workshop\
 
 Added new lines
+git pull origin master
