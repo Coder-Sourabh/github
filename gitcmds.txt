@@ -16,3 +16,6 @@ git status
 git commit -m "added testing file"
 git status
 git restore testing.py
+
+ git clone https://github.com/Coder-Sourabh/github-for-devops-workshop.git
+ cd .\github-for-devops-workshop\
