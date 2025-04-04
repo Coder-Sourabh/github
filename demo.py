@@ -3,4 +3,4 @@ def my_function():
     b=6
     reutn d
 
-my_function()git 
+my_function()
