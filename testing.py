@@ -1,5 +1,9 @@
-print("hello"):
+def demo():
     """
-    this is demo
+    This is demo
     """
-return "Hello"
+    print("hello")
+    return "Hello"
+
+# Calling the function
+demo()
